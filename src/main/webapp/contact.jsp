@@ -10,7 +10,7 @@
         </p>
         <br>
         <p>
-            <span class="bold">Blog: </span>Visit the <a href="http://teammatesonline.blogspot.sg/">TEAMMATES Blog</a> to see our latest updates and information.
+            <span class="bold">Blog: </span>Visit the <a href="http://teammatesonline.blogspot.sg/" target="_blank">TEAMMATES Blog<img src="images/externalLink.png" width="10px"></a> to see our latest updates and information.
         </p>
         <br>
         <p>
@@ -18,7 +18,7 @@
         </p>
         <br>
         <p>
-            <span class="bold">Interested in joining us?: </span>Visit our <a href="https://github.com/TEAMMATES/teammates">Developer Website</a>.
+            <span class="bold">Interested in joining us?: </span>Visit our <a href="https://github.com/TEAMMATES/teammates" target="_blank">Developer Website<img src="images/externalLink.png" width="10px"></a>.
         </p>
     </div>
 </t:staticPage>
